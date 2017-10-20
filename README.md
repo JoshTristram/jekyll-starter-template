@@ -7,6 +7,8 @@ I've built this using recommendations from google page speed insights. (Say what
 
 It includes jekyll-livereload for easy development.
 
+[Here is a version that includes Bootsrap 4 CSS and JS](https://github.com/thauvette/jekyll-bootstrap-starter-template)
+
 ## Set up
 * Run bundle
 * Run jekyll serve
