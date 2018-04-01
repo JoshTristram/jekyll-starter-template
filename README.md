@@ -3,11 +3,13 @@
 This is a barebones template for Jekyll using Filament Group's [LoadJS](https://github.com/filamentgroup/loadJSFilament) and
 [LoadCSS](https://github.com/filamentgroup/loadCSS) so you can get fast loading site.
 
-I've built this using recommendations from google page speed insights. (Say what you want about that).
+I've built this using recommendations from google page speed insights.
 
 It includes jekyll-livereload for easy development.
 
 [Here is a version that includes Bootsrap 4 CSS and JS](https://github.com/thauvette/jekyll-bootstrap-starter-template)
+
+If you haven't set up Jekyll yet [follow these instructions.](https://jekyllrb.com/docs/installation/)
 
 ## Set up
 * Run bundle
