@@ -12,8 +12,8 @@ It includes jekyll-livereload for easy development.
 If you haven't set up Jekyll yet [follow these instructions.](https://jekyllrb.com/docs/installation/)
 
 ## Set up
-* Run bundle
-* Run jekyll serve
+* Run `bundle`
+* Run `jekyll serve`
 
 That's it.
 
